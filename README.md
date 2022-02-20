@@ -1,2 +1,2 @@
 # Blogen
-Bootstarp5 project (Udemy course)
+Bootstarp5 project
